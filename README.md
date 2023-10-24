@@ -1,5 +1,7 @@
 ## Building My First React Native Application 
 
+![Todo list](https://github.com/Mithun1508/React-native-TODO/assets/93249038/c0622220-af09-4e53-a242-b224c14f3025)
+
 Some of the core components of React Native are:
 
 1.View
