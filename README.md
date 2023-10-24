@@ -1,4 +1,4 @@
-## Building Your First React Native Application 
+## Building My First React Native Application 
 
 Some of the core components of React Native are:
 
